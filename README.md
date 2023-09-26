@@ -12,7 +12,7 @@ In this activity, I used Wireshark to capture packets and added a filter to disp
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 
 <h2>Activity walk-through:</h2>
 
